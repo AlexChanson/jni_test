@@ -1,3 +1,5 @@
+package com.alexscode.jnidemo;
+
 public class NativeWrapper {
 
     public native int[] solve(AnObject ao);

@@ -1,3 +1,5 @@
+package com.alexscode.jnidemo;
+
 public class AnObject {
     double [] anArray;
     int [][] aMatrix;
